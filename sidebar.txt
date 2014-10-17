@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ulb:home|Door43 (ulb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ulb|d43-ulb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ulb/archive/master.zip|d43-ulb.zip]]
+
+**Recent Changes**
+{{changes>ns = ulb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ulb|Ethnologue data]]
+
